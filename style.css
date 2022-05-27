@@ -1,0 +1,62 @@
+*{
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.d-flex{
+    height: 40px;
+    width: 720px;
+   
+}
+.fw-bold{
+    font-size: 14px;
+    color: black;
+}
+.fw-bold:hover{
+    background-color: aliceblue;
+}  
+
+.bnr1 img{
+
+    width:100%;
+        }
+ .carouselslide{
+            width: 75%!important;
+        }
+
+.w-30{
+    width: 25%;
+   
+}
+.bnr2 img{
+
+    width:100%;
+        }
+
+        .bnr2 {
+            background-color: red;
+            height: 650px;
+        }
+
+   .ban{
+       color: red;
+   }  
+   .od{
+       background-color: beige;
+   } 
+.bnr3{
+    background-color: rgb(255, 205, 205);
+    height: 300px;
+}  
+.bnr4{
+    background-color: rgb(247, 222, 85);
+    height: 300px;
+}   
+.bg-light img{
+  width: 20%;
+}
+.container-fluid img{
+
+
+}
+
